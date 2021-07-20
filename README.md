@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
-- 💬 Pergunte-me sobre tech, games, movies, hardware, edição de vidões, photoshop.
+- 💬 Pergunte-me sobre tech, games, movies, hardware, edição de videos, photoshop.
 
 </br>
 </br>

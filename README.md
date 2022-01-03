@@ -108,8 +108,6 @@
 </details>
 
 <details open style="margin-bottom:10px">
-
-<details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Productivity and Standards</strong></summary>
 
 <code>
@@ -120,12 +118,11 @@
 <a href="https://prettier.io/" target="_blank" >
     <img  alt="Prettier" title="Prettier" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/prettier.png" />
 </a>
-
-
-
 </code>
 
 </details>
+
+<details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Softwares</strong></summary>
 
 <code>

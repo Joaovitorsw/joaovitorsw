@@ -86,6 +86,11 @@
     <img  alt="Karma" title="Karma" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/karma.svg" />
 </a>
 
+<a href="https://testing-library.com/" target="_blank" >
+    <img  alt="Testing Library" title="Testing Library" width="40" height="40" src="https://testing-library.com/img/octopus-64x64.png" />
+</a>
+
+
 </code>
 
 </details>

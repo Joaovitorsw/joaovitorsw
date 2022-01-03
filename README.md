@@ -31,10 +31,10 @@
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
 <code>
 <a href="https://angular.io/docs" target="_blank" >
-    <img src="./images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
 </a>
 <a href="https://material.angular.io/" target="_blank" >
-    <img src="./images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" >
     <img src="https://icongr.am/devicon/typescript-original.svg?size=148&color=currentColor" alt="Typescript" title="TypeScript" width="40" height="40"/>
@@ -75,15 +75,15 @@
 <code>
 
 <a href="https://jasmine.github.io/" target="_blank" >
-    <img  alt="Jasmine" title="Jasmine" width="40" height="40" src="./images/jasmine-logo.svg" />
+    <img  alt="Jasmine" title="Jasmine" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/jasmine-logo.svg" />
 </a>
 
 <a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
-    <img  alt="Jest" title="Jest" width="40" height="40" src="./images/jest-seeklogo.com.svg" />
+    <img  alt="Jest" title="Jest" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/jest-seeklogo.com.svg" />
 </a>
 
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" >
-    <img  alt="Karma" title="Karma" width="40" height="40" src="./images/karma.svg" />
+    <img  alt="Karma" title="Karma" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/karma.svg" />
 </a>
 
 </code>
@@ -113,16 +113,12 @@
 <summary style="margin-bottom:10px" ><strong>Productivity and Standards</strong></summary>
 
 <code>
-<a href="https://githooks.com/" target="_blank" >
-    <img  alt="Git Hooks" title="Git Hooks" width="40" height="40" src="./images/hooks.png" />
-</a>
-
 <a href="https://eslint.org/" target="_blank" >
-    <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="./images/eslint.png" />
+    <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/eslint.png" />
 </a>
 
 <a href="https://prettier.io/" target="_blank" >
-    <img  alt="Prettier" title="Prettier" width="40" height="40" src="./images/prettier.png" />
+    <img  alt="Prettier" title="Prettier" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/prettier.png" />
 </a>
 
 

@@ -30,6 +30,19 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
 <code>
+<a href="https://angular.io/docs" target="_blank" >
+    <img src="./images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
+</a>
+<a href="https://material.angular.io/" target="_blank" >
+    <img src="./images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" >
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=148&color=currentColor" alt="Typescript" title="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://sass-lang.com/documentation" target="_blank" >
+    <img src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor" 
+    alt="Sass" title="Sass" width="40" height="40"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
     <img src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 </a>
@@ -41,7 +54,6 @@
     <img src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" 
     alt="CSS3" title="CSS3" width="40" height="40"/>
 </a>
-
 </code>
 </details>
 
@@ -55,6 +67,27 @@
 </a>
 
 </code>
+</details>
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Testing</strong></summary>
+
+<code>
+
+<a href="https://jasmine.github.io/" target="_blank" >
+    <img  alt="Jasmine" title="Jasmine" width="40" height="40" src="./images/jasmine-logo.svg" />
+</a>
+
+<a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
+    <img  alt="Jest" title="Jest" width="40" height="40" src="./images/jest-seeklogo.com.svg" />
+</a>
+
+<a href="https://karma-runner.github.io/latest/index.html" target="_blank" >
+    <img  alt="Karma" title="Karma" width="40" height="40" src="./images/karma.svg" />
+</a>
+
+</code>
+
 </details>
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Source Control</strong></summary>
@@ -75,6 +108,28 @@
 </details>
 
 <details open style="margin-bottom:10px">
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Productivity and Standards</strong></summary>
+
+<code>
+<a href="https://githooks.com/" target="_blank" >
+    <img  alt="Git Hooks" title="Git Hooks" width="40" height="40" src="./images/hooks.png" />
+</a>
+
+<a href="https://eslint.org/" target="_blank" >
+    <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="./images/eslint.png" />
+</a>
+
+<a href="https://prettier.io/" target="_blank" >
+    <img  alt="Prettier" title="Prettier" width="40" height="40" src="./images/prettier.png" />
+</a>
+
+
+
+</code>
+
+</details>
 <summary style="margin-bottom:10px" ><strong>Softwares</strong></summary>
 
 <code>
@@ -96,6 +151,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Joaovitorsw" alt="Joaovitorsw" /> </p>
 
-<img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorsw&langs_count=5&theme=dark&layout=compact" />
+<img align="center" alt="João Vitor's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorsw&langs_count=5&theme=dark&layout=compact" />
 <br/>
-<img align="center" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joaovitorsw&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="João Vitor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joaovitorsw&show_icons=true&hide_border=true&theme=dark" />
+
+
+
+

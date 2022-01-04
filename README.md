@@ -13,11 +13,11 @@
 <p align="center">
 
 <a title="Instagram" href="https://www.instagram.com/joaovitorssw/">
-    <img alt="Instagram Logo" src="./images/social-medias/instagram.png" width="40" height="40">
+    <img alt="Instagram Logo" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/social-medias/instagram.png" width="40" height="40">
 </a>
 
 <a title="Linkedin" href="https://www.linkedin.com/in/joao-vitor-pereira-dos-santos/">
-    <img alt="Linkedin Logo" src="./images/social-medias/linkedin.svg" width="40" height="40">
+    <img alt="Linkedin Logo" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/social-medias/linkedin.svg" width="40" height="40">
 </a>
 
 </p>

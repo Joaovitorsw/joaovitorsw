@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é João Vitor Pereira</h1>
 <h4 align="center">Bem vindo ao meu repositório, sou apaixonado por aprender, principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h4>
-[![wakatime](https://wakatime.com/badge/user/0026fafc-8101-464e-9579-f4192b0e0b6a.svg)](https://wakatime.com/@0026fafc-8101-464e-9579-f4192b0e0b6a)
-
+<img align="right" alt="GIF" src="https://wakatime.com/badge/user/0026fafc-8101-464e-9579-f4192b0e0b6a.svg" />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
 - 💬 Pergunte-me sobre tech, games, movies, hardware, edição de videos, photoshop.

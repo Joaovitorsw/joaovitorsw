@@ -43,7 +43,7 @@
 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
-<code>
+<code style="display: flex;">
 <a href="https://angular.io/docs" target="_blank" >
     <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
 </a>
@@ -73,7 +73,7 @@
 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Cloud Servers</strong></summary>
-<code>
+<code style="display: flex;">
 
 <a href="https://app.netlify.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" 
@@ -86,7 +86,7 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Testing</strong></summary>
 
-<code>
+<code style="display: flex;">
 
 <a href="https://jasmine.github.io/" target="_blank" >
     <img  alt="Jasmine" title="Jasmine" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/jasmine-logo.svg" />
@@ -104,14 +104,13 @@
     <img  alt="Testing Library" title="Testing Library" width="40" height="40" src="https://testing-library.com/img/octopus-64x64.png" />
 </a>
 
-
 </code>
 
 </details>
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Source Control</strong></summary>
 
-<code>
+<code style="display: flex;">
 
 <a href="https://git-scm.com/doc" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
@@ -129,7 +128,7 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Productivity and Standards</strong></summary>
 
-<code>
+<code style="display: flex;">
 <a href="https://eslint.org/" target="_blank" >
     <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/eslint.png" />
 </a>
@@ -144,7 +143,7 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Softwares</strong></summary>
 
-<code>
+<code style="display: flex;">
 <a href="https://code.visualstudio.com/docs" target="_blank" >
     <img  alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
@@ -166,7 +165,3 @@
 <img align="center" alt="João Vitor's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorsw&langs_count=5&theme=dark&layout=compact" />
 <br/>
 <img align="center" alt="João Vitor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joaovitorsw&show_icons=true&hide_border=true&theme=dark" />
-
-
-
-

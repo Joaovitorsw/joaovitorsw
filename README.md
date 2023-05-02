@@ -43,7 +43,7 @@
 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
-<code style="display: flex;">
+<p>
 <a href="https://angular.io/docs" target="_blank" >
     <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
 </a>
@@ -68,25 +68,25 @@
     <img src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" 
     alt="CSS3" title="CSS3" width="40" height="40"/>
 </a>
-</code>
+</p>
 </details>
 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Cloud Servers</strong></summary>
-<code style="display: flex;">
+<p>
 
 <a href="https://app.netlify.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" 
     alt="Netlify" title="Netlify" width="40" height="40"/>
 </a>
 
-</code>
+</p>
 </details>
 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Testing</strong></summary>
 
-<code style="display: flex;">
+<p>
 
 <a href="https://jasmine.github.io/" target="_blank" >
     <img  alt="Jasmine" title="Jasmine" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/jasmine-logo.svg" />
@@ -104,13 +104,13 @@
     <img  alt="Testing Library" title="Testing Library" width="40" height="40" src="https://testing-library.com/img/octopus-64x64.png" />
 </a>
 
-</code>
+</p>
 
 </details>
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Source Control</strong></summary>
 
-<code style="display: flex;">
+<p>
 
 <a href="https://git-scm.com/doc" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
@@ -120,7 +120,7 @@
     <img  alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
 
-</code>
+</p>
 </details>
 
 </details>
@@ -128,7 +128,7 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Productivity and Standards</strong></summary>
 
-<code style="display: flex;">
+<p>
 <a href="https://eslint.org/" target="_blank" >
     <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/eslint.png" />
 </a>
@@ -136,14 +136,14 @@
 <a href="https://prettier.io/" target="_blank" >
     <img  alt="Prettier" title="Prettier" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/prettier.png" />
 </a>
-</code>
+</p>
 
 </details>
 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Softwares</strong></summary>
 
-<code style="display: flex;">
+<p>
 <a href="https://code.visualstudio.com/docs" target="_blank" >
     <img  alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
@@ -152,7 +152,7 @@
     <img  alt="Visual Studio Community" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 </a>
 
-</code>
+</p>
 
 </details>
 </p>

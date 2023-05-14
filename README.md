@@ -88,10 +88,17 @@
     <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
 </a>
 <a href="https://react.dev/" target="_blank" >
-    <img src="https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg" alt="React" title="React" width="40" height="40"/>
+    <img src="https://a.storyblok.com/f/42126/e70dfd382f/react-native-logo.png/m/1200x0/filters:quality(70)/" alt="React" title="React" width="60" height="40"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" >
-    <img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" alt="React" title="React" width="180" height="40"/>
+<a href="https://react-hook-form.com/" target="_blank" >
+    <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="React Hook Form" title="React Hook Form" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" title="Redux" width="30" height="40"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank" >
+    <img src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png" alt="React Native" title="React Native" width="120" height="40"/>
 </a>
 
 </p>

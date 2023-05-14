@@ -73,12 +73,12 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end Libraries</strong></summary>
 <p>
-<a href="https://ngrx.io/" target="_blank" >
-    <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="NGRX" title="NGRX " width="40" height="40"/>
+<a href="https://rxjs.dev/" target="_blank" >
+    <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" title="RxJS " width="40" height="40"/>
 </a>
 <a href="https://ngrx.io/" target="_blank" >
-    <img src="https://ngrx.io/assets/images/badge.svg" alt="RxJS
-" title="RxJS
+    <img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx
+" title="NgRx
  " width="40" height="40"/>
 </a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" >
@@ -108,6 +108,9 @@
 <p>
 <a href="https://nodejs.org/en" target="_blank" >
     <img src="https://logospng.org/download/node-js/logo-node-js-1024.png" alt="NodeJS" title="NodeJS" width="40" height="40"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
+    <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="NodeJS" title="C#" width="40" height="40"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="ASP.NET" title="ASP.NET" width="40" height="40"/>

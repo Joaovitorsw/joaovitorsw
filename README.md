@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a title="Instagram" href="https://www.instagram.com/joaovitorssw//">
+<a title="Instagram" href="https://www.instagram.com/joaovitorssw/">
        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="2em" height=2em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path d="M13 10a3 3 0 1 1-6 0c0-.171.018-.338.049-.5H6v3.997c0 .278.225.503.503.503h6.995a.503.503 0 0 0 .502-.503V9.5h-1.049c.031.162.049.329.049.5zm-3 2a2 2 0 1 0-.001-4.001A2 2 0 0 0 10 12zm2.4-4.1h1.199a.301.301 0 0 0 .301-.3V6.401a.301.301 0 0 0-.301-.301H12.4a.301.301 0 0 0-.301.301V7.6c.001.165.136.3.301.3zM10 .4A9.6 9.6 0 0 0 .4 10a9.6 9.6 0 0 0 9.6 9.6a9.6 9.6 0 0 0 9.6-9.6A9.6 9.6 0 0 0 10 .4zm5 13.489C15 14.5 14.5 15 13.889 15H6.111C5.5 15 5 14.5 5 13.889V6.111C5 5.5 5.5 5 6.111 5h7.778C14.5 5 15 5.5 15 6.111v7.778z" fill="#626262"/></svg>
 </a>
 
@@ -44,22 +44,7 @@
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
 <p>
-<a href="https://angular.io/docs" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
-</a>
-<a href="https://material.angular.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" >
-    <img src="https://icongr.am/devicon/typescript-original.svg?size=148&color=currentColor" alt="Typescript" title="TypeScript" width="40" height="40"/>
-</a>
-<a href="https://sass-lang.com/documentation" target="_blank" >
-    <img src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor" 
-    alt="Sass" title="Sass" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-</a>
+
 <a href="https://www.w3schools.com/html/" target="_blank" >
     <img src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor" 
     alt="HTML5" title="HTML5" width="40" height="40"/>
@@ -68,6 +53,88 @@
     <img src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" 
     alt="CSS3" title="CSS3" width="40" height="40"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" >
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=148&color=currentColor" alt="Typescript" title="TypeScript" width="40" height="40"/>
+</a>
+
+<a href="https://sass-lang.com/documentation" target="_blank" >
+    <img src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor" 
+    alt="Sass" title="Sass" width="40" height="40"/>
+</a>
+<a href="https://angular.io/docs" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
+</a>
+
+</p>
+</details>
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Front-end Libraries</strong></summary>
+<p>
+<a href="https://ngrx.io/" target="_blank" >
+    <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="NGRX" title="NGRX " width="40" height="40"/>
+</a>
+<a href="https://ngrx.io/" target="_blank" >
+    <img src="https://ngrx.io/assets/images/badge.svg" alt="RxJS
+" title="RxJS
+ " width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" >
+    <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/bootstrap5.jpeg?itok=wkBtyvSM" alt="Bootstrap 5 " title="Bootstrap 5 " width="40" height="40"/>
+</a>
+<a href="https://material.angular.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank" >
+    <img src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="React" title="React" width="45" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" >
+    <img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" alt="React" title="React" width="180" height="40"/>
+</a>
+
+</p>
+</details>
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Back-end</strong></summary>
+<p>
+<a href="https://nodejs.org/en" target="_blank" >
+    <img src="https://logospng.org/download/node-js/logo-node-js-1024.png" alt="NodeJS" title="NodeJS" width="40" height="40"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="ASP.NET" title="ASP.NET" width="40" height="40"/>
+</a>
+<a href="https://nestjs.com/" target="_blank">
+    <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" title="NestJS" width="40" height="40"/>
+</a>
+
+</p>
+</details>
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Back-end ORM</strong></summary>
+<p>
+<a href="https://www.prisma.io/" target="_blank" >
+    <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" title="Prisma" width="40" height="40"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXEQU3JzHDgAlna7ELeMSeblYHGYY0eJlbEtu1yGvnHR8jri4A84nd2oua_UuBxDBebM&usqp=CAU" alt="Entity Framework Core
+" title="Entity Framework Core
+" width="40" height="40"/>
+</a>
+
+</p>
+</details>
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Database</strong></summary>
+<p>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" >
+    <img src="https://storage.subs.noventiq.com/public/images/market_setting/logotype/39422/SQL1.png" alt="SQL Server" title="SQL Server" width="40" height="40"/>
+</a>
+<a href="httpshttps://www.oracle.com/database/" target="_blank" >
+    <img src="https://seeklogo.com/images/O/oracle-database-logo-780BE0C820-seeklogo.com.png" alt="SQL Server" title="Oracle Database" width="60" height="40"/>
+</a>
+
 </p>
 </details>
 
@@ -132,9 +199,12 @@
 <a href="https://eslint.org/" target="_blank" >
     <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/eslint.png" />
 </a>
+<a href="https://eslint.org/" target="_blank" >
+    <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.86.82/1683560622878/Microsoft.VisualStudio.Services.Icons.Default" />
+</a>
 
-<a href="https://prettier.io/" target="_blank" >
-    <img  alt="Prettier" title="Prettier" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/prettier.png" />
+<a href="https://github.com/features/copilot/" target="_blank" >
+    <img  alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40" src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/prettier.png" />
 </a>
 </p>
 

@@ -88,7 +88,7 @@
     <img src="https://raw.githubusercontent.com/gleisonkz/gleisonkz/master/images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
 </a>
 <a href="https://react.dev/" target="_blank" >
-    <img src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="React" title="React" width="45" height="40"/>
+    <img src="https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg" alt="React" title="React" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" >
     <img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" alt="React" title="React" width="180" height="40"/>

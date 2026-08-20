@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/joao-vitor-pereira-dos-santos/">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Vitor%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/channel/UCeg6D0CiQ8Itl0SMWE9ZjXw">
-    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
 </p>
 
 ---
@@ -36,9 +33,9 @@
 
 ### Áreas em que venho atuando
 
-- **Sistemas financeiros:** conciliação financeira, adquirência/cartões, PIX, marketplaces, TEF, enriquecimento financeiro, lançamentos SAP e tradução/conversão de layouts.
+- **Sistemas financeiros:** conciliação financeira, adquirência/cartões, PIX, marketplaces, TEF, enriquecimento financeiro, lançamentos SAP, SAP Ariba e tradução/conversão de layouts.
 - **Processamento de arquivos:** PDF, CSV, XLSX, TXT, JSON, JSONL, EDI, arquivos posicionais/fixed-width, streaming, buffers, chunks e arquivos de múltiplos GB.
-- **Integrações corporativas:** APIs REST, SAP, integrações HTTP, replicação de dados, comunicação entre microsserviços e processamento assíncrono.
+- **Integrações corporativas:** APIs REST, SAP, SAP Ariba, integrações HTTP, replicação de dados, compartilhamento de arquivos, comunicação entre microsserviços e processamento assíncrono.
 - **Arquitetura e escala:** microsserviços, sistemas distribuídos, event-driven architecture, workers, batch jobs, background jobs, cache distribuído, locks distribuídos e idempotência.
 - **IA aplicada:** LLMs, agentes de IA, structured output, extração de informação, interpretação de PDFs/layouts, sugestão automática de mapeamentos e validação determinística.
 
@@ -47,7 +44,7 @@
 ### :man_technologist: Minha Stack de Desenvolvimento
 
 <details open>
-<summary><strong>Front-end</strong></summary>
+<summary><strong>Linguagens</strong></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,6 +54,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Front-end</strong></summary>
+<br>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -90,10 +94,18 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Messaging](https://img.shields.io/badge/Spring%20Messaging-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud Kubernetes](https://img.shields.io/badge/Spring%20Cloud%20Kubernetes-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud Config](https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache HttpClient](https://img.shields.io/badge/Apache%20HttpClient-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Netty](https://img.shields.io/badge/Netty-0A5A9C?style=for-the-badge&logo=netty&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </details>
 
@@ -105,7 +117,10 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle GoldenGate](https://img.shields.io/badge/Oracle%20GoldenGate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoTemplate](https://img.shields.io/badge/MongoTemplate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Aggregation Pipeline](https://img.shields.io/badge/Aggregation%20Pipeline-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![H2](https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=h2database&logoColor=white)
 
@@ -121,6 +136,9 @@
 ![AMQP](https://img.shields.io/badge/AMQP-0052CC?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Ariba](https://img.shields.io/badge/SAP%20Ariba-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![CIFS](https://img.shields.io/badge/CIFS%2FSMB-4B5563?style=for-the-badge&logo=files&logoColor=white)
+![UNC Shares](https://img.shields.io/badge/UNC%20Shares-4B5563?style=for-the-badge&logo=files&logoColor=white)
 
 </details>
 
@@ -135,6 +153,11 @@
 ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ConfigMaps](https://img.shields.io/badge/ConfigMaps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Secrets](https://img.shields.io/badge/Secrets-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Deployments](https://img.shields.io/badge/Deployments-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Pods](https://img.shields.io/badge/Pods-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Namespaces](https://img.shields.io/badge/Namespaces-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Argo Rollouts](https://img.shields.io/badge/Argo%20Rollouts-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
@@ -143,7 +166,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab Runner](https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </details>
@@ -162,6 +187,8 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Datadog APM](https://img.shields.io/badge/Datadog%20APM-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Code Coverage](https://img.shields.io/badge/Code%20Coverage-2EA043?style=for-the-badge&logo=codecov&logoColor=white)
 
 </details>
 
@@ -175,7 +202,9 @@
 ![PDF](https://img.shields.io/badge/PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=files&logoColor=white)
 ![XLSX](https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![TXT](https://img.shields.io/badge/TXT-4B5563?style=for-the-badge&logo=files&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JSONL](https://img.shields.io/badge/JSONL-000000?style=for-the-badge&logo=json&logoColor=white)
 ![EDI](https://img.shields.io/badge/EDI-34495E?style=for-the-badge&logo=files&logoColor=white)
 ![Fixed Width](https://img.shields.io/badge/Fixed--Width%20Files-4B5563?style=for-the-badge&logo=files&logoColor=white)
 
@@ -185,4 +214,4 @@
 
 ### Conceitos e práticas
 
-`Clean Architecture` · `System Design` · `Microservices` · `Distributed Systems` · `Event-Driven Architecture` · `Batch Processing` · `Streaming` · `Chunking` · `Parallelism` · `Concurrency` · `Distributed Locks` · `Caching` · `Retry/Reprocessamento` · `Idempotência` · `Canary Deployment` · `GitOps` · `Code Review` · `Refactoring` · `Performance Tuning` · `Troubleshooting de Produção`
+`Clean Architecture` · `System Design` · `Microservices` · `Distributed Systems` · `Event-Driven Architecture` · `REST API Design` · `Batch Processing` · `Background Jobs` · `Workers` · `Schedulers/Polling` · `Streaming` · `Chunking/Particionamento` · `Parallelism` · `Concurrency` · `Distributed Locks` · `Cache Distribuído` · `Retry/Reprocessamento` · `Idempotência` · `Horizontal Scaling` · `Resource Requests/Limits` · `Canary Deployment` · `GitOps` · `Distributed Tracing` · `Log Injection` · `Structured Logs` · `Service Mapping` · `Code Review` · `Refactoring` · `Performance Tuning` · `Profiling` · `Troubleshooting de Produção`
